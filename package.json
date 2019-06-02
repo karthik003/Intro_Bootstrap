@@ -1,48 +1,25 @@
 {
-<<<<<<< HEAD
-  "name": "confusion",
+  "name": "assignment1",
   "version": "1.0.0",
-  "description": "This is a website for Ristorante Con Fusion",
-  "main": "index.html",
+  "description": "\"My 1st assignment\"",
+  "main": "aboutus.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  },
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.3.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik003/Assignment-1.git"
   },
-  "dependencies": {
-    "bootstrap": "^4.0.0",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.12.9"
-  }
+  "author": "V.J.Karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik003/Assignment-1/issues"
+  },
+  "homepage": "https://github.com/karthik003/Assignment-1#readme"
 }
-=======
-    "name": "git-test",
-    "version": "1.0.0",
-    "description": "This is a test directory to learn Git and Node",
-    "main": "index.html",
-    "scripts": {
-      "start":"npm run lite",
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "lite":"lite-server"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/karthik003/git-test.git"
-    },
-    "author": "V.J.Karthik",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/karthik003/git-test/issues"
-    },
-    "homepage": "https://github.com/karthik003/git-test#readme",
-    "devDependencies": {
-      "lite-server": "^2.5.3"
-    }
-  }
-  
->>>>>>> aa63ee86b20c604223318db208b46a82b2f29135
