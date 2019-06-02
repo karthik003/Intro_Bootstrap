@@ -1,9 +1,12 @@
 {
-  "name": "assignment1",
+  "name": "assigniment1",
   "version": "1.0.0",
   "description": "\"My 1st assignment\"",
   "main": "aboutus.html",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
   "devDependencies": {
     "lite-server": "^2.5.3"
   },
